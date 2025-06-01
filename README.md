@@ -1,6 +1,7 @@
 # LockTFin - Focus App for ADHD
 
-![LockTFin Logo](https://raw.githubusercontent.com/lalomorales22/lock-tf-in/main/public/logo.png)
+
+<img width="802" alt="Screenshot 2025-06-01 at 10 26 09 AM" src="https://github.com/user-attachments/assets/54854ef6-9fef-41eb-8480-950a54d8c288" />
 
 LockTFin is a powerful focus application designed specifically for individuals with ADHD, helping them maintain concentration by creating a controlled working environment. The app allows users to select specific applications they want to use during their focus session and locks them into those apps for a predetermined duration.
 
